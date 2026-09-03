@@ -1,19 +1,19 @@
 {
-  "totalDownloads": 603,
+  "totalDownloads": 609,
   "releases": {
     "v1.4.2": {
       "releaseId": 354511605,
-      "downloads": 547,
+      "downloads": 553,
       "status": "active",
       "firstSeen": "2026-07-15T14:48:46Z",
-      "lastSeen": "2026-09-02T07:06:23.770Z"
+      "lastSeen": "2026-09-03T07:10:42.438Z"
     },
     "v1.4.1": {
       "releaseId": 354097597,
       "downloads": 56,
       "status": "active",
       "firstSeen": "2026-07-14T21:51:53Z",
-      "lastSeen": "2026-09-02T07:06:23.770Z"
+      "lastSeen": "2026-09-03T07:10:42.438Z"
     }
   }
 }
