@@ -27,8 +27,4 @@ v1.3.x
 - 系统更新或切换 A/B 槽位后，需要重新执行补丁。
 - 55W 是策略上限，实际功率取决于 PPS 充电器、5A 数据线、电量、温度和系统策略。
 
-酷安@[大侠阿木](coolmarket://u/481895)
-
-微博@[大侠阿木](https://weibo.com/daxiaamu)
-
-网站：[大侠阿木博客](https://www.daxiaamu.com)、[大侠阿木软件](https://optool.daxiaamu.com)、[下载ROM](https://oplusrom.com)
+[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)
